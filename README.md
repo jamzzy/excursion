@@ -11,7 +11,7 @@ Practicing css and html recreating a website.
 
 This website was created to practice the html and css concepts learned in Codecademy by recreating a webpage provided by Codecademy. These were the mocks provided as guides:
 
-![mock](https://github.com/jamzzy/excursion/blob/main/designs/excursion.webp?raw=true))
+![mock](https://github.com/jamzzy/excursion/blob/main/designs/excursion.webp?raw=true)
 
 ![redlinemock](https://github.com/jamzzy/excursion/blob/main/designs/excursion_redline.webp?raw=true)
 
