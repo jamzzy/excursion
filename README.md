@@ -15,6 +15,8 @@ This website was created to practice the html and css concepts learned in Codeca
 
 ![redlinemock](https://github.com/jamzzy/excursion/blob/main/designs/excursion_redline.webp?raw=true)
 
+[Click here for my version!](https://jamzzy.github.io/excursion/)
+
 ### Technologies
 Project is created with:
 * HTML5
